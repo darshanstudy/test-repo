@@ -1,0 +1,103 @@
+                                     N Harikrishna
+
+DevOps Engineer
+
+
+Mob No :  8105016337
+Email     :   harinalla1989@gmail.com
+Overall 4+ years of experience as a DevOps Engineer, with Configuration Management, Build, code compilation, packaging, automating and Release Management and Proficient in AWS and Linux environment and expertise in DevOps tools to automate repetitive tasks, quickly deploy critical applications, proactively manage change and set up the framework for one click build and deployment on non-production environments.
+
+Experience Summary
+•	Solid experience with Linux (Ubuntu. Windows) administration.
+•	Expertise in AWS environment including but not limited to EC2, ELB, VPC, Auto Scaling, Cloud Formation, S3, AWS CLI, EBS, Lambda, RDS, lAM, Redshift, and Route53.
+•	Experienced in branching, merging and maintaining the versions using SCM tools like Git and GitHub.
+•	Proficient in build tools like Maven and NPM builds.
+•	Experienced in web applications using Apache Tomcat.
+•	Expertise in continuous Integrations systems, CI/CD pipelines such as Jenkins.
+•	Experienced in creation of Docker containers and Docker consoles for managing the application life cycle and creating custom Docker Images using Docker file for easier replication of DEV and QA Environments in local machines.
+•	Experience in Integrating Docker with Jenkins and writing Groovy scripts.
+•	Proficient in configuration management using Ansible.
+•	Experience in creating vaults using play books.
+•	Experience in server monitoring systems like ELK and CloudWatch.
+•	Expertise in container orchestration systems such as AWS ECS, EKS Kubernetes clusters.
+•	Shell programming experience.
+•	MySQL and PostgreSQL experience.
+•	Gave users access to the AWS server with the right permission and also ensure that security policies are implemented.
+•	Ability to work effectively within a team and with minimal supervision.
+•	Coordinated with multiple teams across the globe to deploy different builds for multiple projects and meet customer quality & production demands with deadlines.
+
+
+
+
+
+
+Education: Jawaharlal Nehru Technolgy University,Kakinada
+  Bachelor of Technology in Electronics and Communication Engineering.
+
+
+Skills	
+❖	Operating Systems	 Linux, Windows, Ubuntu, Red Hat
+❖	Version Control Tools	GIT and GITHUB.
+❖	Contiguous Integration tool	 Jenkins, GitLab, CI/CD
+❖	Build Tools	Maven.
+❖	Configuration Management tools	    Ansible.
+❖	Virtualization	Docker, Docker Hub.
+❖	Container Orchestration Tool	Kubernetes
+❖	Cloud Services	VPC, EC2, IAM, ELB, Auto scaling, RDS, Route 53, S3, Security Groups, Lambda, ECS, EKS, Cloud Formation
+
+•	Databases	: MySQL, PostgreSQL
+•	Application Servers	: Apache Tomcat.
+•	Scripting Languages	: Shell scripting, Python
+•	Ticketing Tool	: JIRA. Freshdesk
+•	Monitoring Tools	: CloudWatch, SPLUNK, ELK
+•	Code Quality	: SonarQube.
+•	Infrastructure as code software	: CloudFormation
+•	Database process	: Snapshot
+
+Experience:
+DevOps Engineer
+Working at  Bullfinch software Pvt Ltd from  Jan 2019 from March 2022
+Working  at  HCL technologies from March2022 To  Till Now.
+
+Environment : Aws, Linux, Github, Jenkins, Docker, Kubernetes, Ansible,Terraform.
+•	Providing infrastructure solutions based on amazon web services (AWS) in a fast-paced, challenging, innovative company focused on reliability and student service.
+•	Used AWS IAM to create new accounts, roles, users, groups and policies,
+•	Worked on Amazon Web Services like EC2, ELB, VPC, S3, IAM, RDS, Route 53.
+•	Created Private networks and sub-networks and brought instances under them based on the requirement,
+•	Assisted in migrating the existing data centre into the AWS environment.
+•	Installed and configured AWS CLI for managing AWS Cloud services.
+•	Deployed and monitor scalable infrastructure on Amazon web services (AWS) and configuration management using Ansible.
+•	Worked on integrating GitHub into the continuous Integration (CI/CD) environment in Jenkins.
+•	Written play books for installing packages.
+•	Worked on developing and maintaining build, deployment scripts for test, Staging and Production environments using shell script.
+•	Created docker compose files.
+•	Setup docker swarm clusters for high availability.
+•	Used to monitor servers with the help of CloudWatch.
+•	Created Name space, pods, Replication Controllers and replica sets in Kubernetes
+•	   Created EC2, S3, RDS, ECS, Elastic Load Balancer, Auto Scaling.
+•	Setup and attached EBS volumes to Ec2 instances.
+•	Created VPC, Subnets, and Route tables and Internet gateways.
+•	Configured and managing security groups and VPC.
+•	Creating backups for servers & Volumes in AWS using Data Life cycle manager.
+•	Creating repositories, branches, merging branches, giving collaboration access in GIT.
+•	Cloning code from GIT into multiple environments.
+•	Building the code using Maven.
+•	Deploying artifacts  in tomcat web apps.
+•	CICD Automation with the help of Jenkins.
+•	CICD Automation with the help of GitLab CI/CD using YML scripts.
+•	Created freestyle jobs, pipeline jobs using Groovy Script.
+•	Created VPC and enabled auto scaling and load balancing,
+•	Worked on Amazon Web Services EC2, ECS, EKS, ELB, VPC, S3, IAM, RDS, Route 53.
+•	Involved heavily in setting up the CI/CD pipeline using Jenkins. Maven, Git Hub, Ansible, and AWS.
+•	Created security groups for both individual instances and for the group of instances under a network.
+•	Used Jenkins for automating.
+•	Configured Jenkins to implement builds on daily basis and generated change log that includes changes.
+•	Creating Docker images, Running the Containers and port mapping.
+•	Creating Docker Compose Files, Kubernetes Clustering.
+•	Created and managed S3 buckets for the Artifactory repository and for the Static Webhosting.
+•	Creating password less authentications by using Ansible.
+•	Creating and setting up Docker Compose Files and Docker Swam clusters.
+
+The above information and details are duly filled by me and the details are provided as per my professional experience and in accurate with my knowledge.
+
+                                                                                                                                   (N Harikrishna)
