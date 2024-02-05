@@ -9,4 +9,4 @@ IdentityFile ~/.ssh/id_rsa_myaccount_github
 # gitlab account
 Host gitlab.com
 HostName gitlab.com
-PreferredAuthentications publickey
+PreferredAuthentications publickeydcdknwkdvm.dwd
