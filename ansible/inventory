@@ -1,0 +1,13 @@
+[web]
+173.34.56.1
+173.34.56.2
+[catalogue]
+173.34.56.3
+173.34.56.4
+[cart]
+173.34.56.5
+173.34.56.6
+[roboshop:children]
+web
+catalogue
+cart
